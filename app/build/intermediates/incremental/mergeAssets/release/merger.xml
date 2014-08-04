@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="D:\projects\krishakz-android\workspace_krisha.kz\submodule\ViewPagerExtensions\app\src\main\assets" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="D:\projects\krishakz-android\workspace_krisha.kz\submodule\ViewPagerExtensions\app\src\release\assets" />
+    </dataSet>
+
+</merger>
